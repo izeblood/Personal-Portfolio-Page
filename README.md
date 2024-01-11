@@ -1,6 +1,5 @@
 # Personal-Portfolio-Page
-for educational purposes only
-Project: Personal Portfolio Page
+# Project: Personal Portfolio Page
 Objective: Create a personal portfolio webpage that showcases your skills, projects, and a brief bio. This project will help you practice structuring HTML and styling it using CSS.
 Requirements:
 1.	HTML Structure:
